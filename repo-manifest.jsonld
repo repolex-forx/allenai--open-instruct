@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/open-instruct/commit/d39e4247c8c9814b55074be229be8af4d368fb8c",
       "git:hexsha": "d39e4247c8c9814b55074be229be8af4d368fb8c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/open-instruct/commit/432c8d4335e9284a9d3de31efafb6f435222acd3",
