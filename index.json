@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "open-instruct",
+  "versions": [
+    {
+      "commit": "d39e4247c8c9814b55074be229be8af4d368fb8c",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:56:17.078796+00:00"
+    }
+  ]
+}
